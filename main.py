@@ -3,5 +3,6 @@ for i in range(1,20+1):
   print(i, end=' ')
   a = i**2
   b = i**3
-print('\n',b-a)
+  c=b-a
+print('\n',c)
   
